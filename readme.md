@@ -7,11 +7,14 @@ I am a Ph.D. student in Computer Science, pursuing my Ph.D. degree. My research 
 
 ## Papers
 
-1. Tao Yang, Zhiping Cai. "Efficient IPv6 Router Interface Discovery." *Proc. INFOCOM 2024.*
-2. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "Search in the Expanse: Towards Active and Global IPv6 Hitlists." *INFOCOM 2023: 1-10.*
-3. Tao Yang, Bingnan Hou, Zhiping Cai, Tongqing Zhou. "6Forest: An Ensemble Learning-Based Approach to Target Generation for Internet-wide IPv6 Scanning." *Proc. INFOCOM 2022.*
-4. Tao Yang, Bingnan Hou, Zhiping Cai, Kui Wu, Tongqing Zhou, Chengyu Wang. "6Graph: A Graph-Theoretic Approach to Address Pattern Mining for Internet-wide IPv6 Scanning." *Computer Networks. 2021. DOI: 10.1016/j.comnet.2021.108666.*
-5. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "6Scan: A High-Efficiency Dynamic Internet-Wide IPv6 Scanner With Regional Encoding." *IEEE/ACM Trans. Netw. 31(4): 1870-1885 (2023).*
+
+
+1. Tao Yang, Bingnan Hou, Yifan Yang, Zhiping Cai. "Sweeping the IPv6 Internet: High-Efficiency Router Interface Discovery with Weighted Sampling." *IEEE/ACM Transactions on Networking. 2024. DOI: 10.1109/TNET.2024.3479420*
+2. Tao Yang, Zhiping Cai. "Efficient IPv6 Router Interface Discovery." *Proc. INFOCOM 2024.*
+3. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "Search in the Expanse: Towards Active and Global IPv6 Hitlists." *INFOCOM 2023: 1-10.*
+4. Tao Yang, Bingnan Hou, Zhiping Cai, Tongqing Zhou. "6Forest: An Ensemble Learning-Based Approach to Target Generation for Internet-wide IPv6 Scanning." *Proc. INFOCOM 2022.*
+5. Tao Yang, Bingnan Hou, Zhiping Cai, Kui Wu, Tongqing Zhou, Chengyu Wang. "6Graph: A Graph-Theoretic Approach to Address Pattern Mining for Internet-wide IPv6 Scanning." *Computer Networks. 2021. DOI: 10.1016/j.comnet.2021.108666.*
+6. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "6Scan: A High-Efficiency Dynamic Internet-Wide IPv6 Scanner With Regional Encoding." *IEEE/ACM Transactions on Networking. 2023. DOI: 10.1109/TNET.2023.3233953*
 
 ## Tools
 
