@@ -11,9 +11,9 @@ I am a Ph.D. student in Computer Science, pursuing my Ph.D. degree. My research 
 
 1. Tao Yang, Bingnan Hou, Yifan Yang, Zhenzhong Yang and Zhiping Cai. "6Seeks: A Global IPv6 Network Periphery Scanning System." *IEEE/ACM Transactions on Networking. under review*
 2. Tao Yang, Bingnan Hou, Yifan Yang, Zhiping Cai. "Sweeping the IPv6 Internet: High-Efficiency Router Interface Discovery with Weighted Sampling." *IEEE/ACM Transactions on Networking. 2024. DOI: 10.1109/TNET.2024.3479420*
-3. Tao Yang, Zhiping Cai. "Efficient IPv6 Router Interface Discovery." *Proc. INFOCOM 2024.*
-4. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "Search in the Expanse: Towards Active and Global IPv6 Hitlists." *INFOCOM 2023: 1-10.*
-5. Tao Yang, Bingnan Hou, Zhiping Cai, Tongqing Zhou. "6Forest: An Ensemble Learning-Based Approach to Target Generation for Internet-wide IPv6 Scanning." *Proc. INFOCOM 2022.*
+3. Tao Yang, Zhiping Cai. "Efficient IPv6 Router Interface Discovery." *Proc. INFOCOM 2024. DOI: 10.1109/INFOCOM52122.2024.10621168*
+4. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "Search in the Expanse: Towards Active and Global IPv6 Hitlists." *Proc. INFOCOM 2023. DOI: 10.1109/INFOCOM53939.2023.10229089*
+5. Tao Yang, Bingnan Hou, Zhiping Cai, Tongqing Zhou. "6Forest: An Ensemble Learning-Based Approach to Target Generation for Internet-wide IPv6 Scanning." *Proc. INFOCOM 2022. DOI: 10.1109/INFOCOM48880.2022.9796925*
 6. Tao Yang, Bingnan Hou, Zhiping Cai, Kui Wu, Tongqing Zhou, Chengyu Wang. "6Graph: A Graph-Theoretic Approach to Address Pattern Mining for Internet-wide IPv6 Scanning." *Computer Networks. 2021. DOI: 10.1016/j.comnet.2021.108666.*
 7. Bingnan Hou, Zhiping Cai, Kui Wu, Tao Yang, Tongqing Zhou. "6Scan: A High-Efficiency Dynamic Internet-Wide IPv6 Scanner With Regional Encoding." *IEEE/ACM Transactions on Networking. 2023. DOI: 10.1109/TNET.2023.3233953*
 8. Xionglve Li, Chengyu Wang, Tao Yang, Ao Shen, Zhenyu Qiu, Bingnan Hou, Zhiping Cai. "Realizing Personalized and Adaptive Inference of AS Paths With a Generative and Measurable Process" *IEEE/ACM Transactions on Networking. 2024. DOI: 10.1109/TNET.2024.3506156*
